@@ -1,0 +1,11 @@
+.DS_Store
+*.out
+*.o
+*test*
+*TEST*
+.swp
+.vscode
+trush
+_*
+bsq
+map.txt

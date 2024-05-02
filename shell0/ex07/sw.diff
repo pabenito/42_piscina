@@ -1,0 +1,22 @@
+1,2c1,3
+< STARWARS
+< Episode IV, A NEW HOPE It is a period of civil war.
+---
+> STARBURSTS
+> Episode IV, A FRESH DREAM 
+> It is a time of domestic squabbles.
+4,5c5,6
+< Rebel spaceships, striking from a hidden base, have won their first victory against the evil 	Galactic Empire.
+< During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the 	DEATH STAR,
+---
+> Rebel balloons, launching from a concealed clubhouse, have achieved their inaugural triumph over the naughty Galactic Consortium.
+> During the skirmish, Rebel gossips managed to snag confidential blueprints to the Consortium's peak gadget, the LIFE STAR,
+7,10c8
+< an armored space station with enough power to destroy an entire planet.
+< 
+< Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, cus
+< todian of the stolen plans that can save her people and restore freedom to the galaxy...
+---
+> a shielded space hangout with sufficient force to obliterate an entire island.
+11a10
+> Chased by the Consortium's crafty consultants, Princess Lulu zooms home aboard her spaceship, holder of the snagged blueprints that can aid her folks and rejuvenate liberty to the universe...
